@@ -1,0 +1,65 @@
+{
+ "n": 1000209,
+ "users": 6040,
+ "movies": 3706,
+ "pairs": 1000209,
+ "ratings": {
+  "1": 56174,
+  "2": 107557,
+  "3": 261197,
+  "4": 348971,
+  "5": 226310
+ },
+ "mean_rating": 3.581564453029317,
+ "sorted_by_user": true,
+ "timestamp_inversions": 488107,
+ "ts_min": 956703932,
+ "ts_max": 1046454590,
+ "top1_share": 0.003427283697707179,
+ "top100_share": 0.1831037313201541,
+ "top10pct_share": 0.4438112434501189,
+ "median_movie_count": 123.5,
+ "max_movie_count": 3428,
+ "min_movie_count": 1,
+ "movies_le_10": 473,
+ "top_movies": [
+  [
+   "American Beauty (1999)",
+   3428
+  ],
+  [
+   "Star Wars: Episode IV - A New Hope (1977)",
+   2991
+  ],
+  [
+   "Star Wars: Episode V - The Empire Strikes Back (1980)",
+   2990
+  ],
+  [
+   "Star Wars: Episode VI - Return of the Jedi (1983)",
+   2883
+  ],
+  [
+   "Jurassic Park (1993)",
+   2672
+  ]
+ ],
+ "median_user_count": 96.0,
+ "max_user_count": 2314,
+ "min_user_count": 20,
+ "density": 0.044683625622312845,
+ "mean_by_decile": [
+  3.6102418492116657,
+  3.5159616480539087,
+  3.5575829075894063,
+  3.5573529558792654,
+  3.631277431739335,
+  3.569070495196009,
+  3.5435958448725766,
+  3.5870067285869967,
+  3.6385259095589926,
+  3.60502899420116
+ ],
+ "exact_bitmap_bytes": 2983760,
+ "first_1000_users": 10
+}
